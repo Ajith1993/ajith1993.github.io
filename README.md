@@ -1,7 +1,7 @@
 ## Hi , This is 
 
-#**Ajith Chacko**
+# **Ajith Chacko**
 ## Data Scientist, Machine Learning Developer 
-###[LinkedIn](https://www.linkedin.com/in/ajith-chacko-699a39b4/)
+### [LinkedIn](https://www.linkedin.com/in/ajith-chacko-699a39b4/)
 
 
