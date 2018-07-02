@@ -17,4 +17,4 @@ Movie Recommendations based on Movie Lens Dataset .
      
  Classifier System to predict the success of cold calls made based on previous events.
  
- ![Image](https://blog.malwarebytes.com/wp-content/uploads/2018/03/shutterstock_119711815-900x506.jpg | width=200)
+ ![Image](https://blog.malwarebytes.com/wp-content/uploads/2018/03/shutterstock_119711815-900x506.jpg =200x200)
