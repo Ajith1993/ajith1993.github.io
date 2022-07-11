@@ -11,7 +11,7 @@
 
 Implementation of the paper MaxMin Convolutional Neural Networks for Image Classification for CIFAR10 dataset achieving the accuracy of 91.43%
 
-![Image](https://kaggle2.blob.core.windows.net/competitions/kaggle/3649/media/cifar-10.png)
+
 
 
 ### [Recommender System](https://github.com/Ajith1993/Recommender-Systems)
@@ -25,4 +25,4 @@ Movie Recommendations based on Movie Lens Dataset .
      
  Classifier System to predict the success of cold calls made based on previous events.
  
- ![Image](https://blog.malwarebytes.com/wp-content/uploads/2018/03/shutterstock_119711815-900x506.jpg)
+
